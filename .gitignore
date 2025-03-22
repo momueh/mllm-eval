@@ -1,0 +1,11 @@
+venv
+
+# Data
+src/tasks/data
+results/ic
+results/visdial
+results/vcr
+results/vqa
+
+__pycache__
+src/tasks/__pycache__

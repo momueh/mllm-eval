@@ -1,0 +1,32 @@
+{
+  "openai": {
+    "q->a_accuracy": 0.494,
+    "qa->r_accuracy": 0.502,
+    "q->ar_accuracy": 0.31,
+    "q->a_count": 247,
+    "qa->r_count": 251,
+    "q->ar_count": 155,
+    "total": 409,
+    "processed": 500
+  },
+  "anthropic": {
+    "q->a_accuracy": 0.57,
+    "qa->r_accuracy": 0.568,
+    "q->ar_accuracy": 0.378,
+    "q->a_count": 285,
+    "qa->r_count": 284,
+    "q->ar_count": 189,
+    "total": 442,
+    "processed": 500
+  },
+  "gemini": {
+    "q->a_accuracy": 0.696,
+    "qa->r_accuracy": 0.696,
+    "q->ar_accuracy": 0.48,
+    "q->a_count": 348,
+    "qa->r_count": 348,
+    "q->ar_count": 240,
+    "total": 500,
+    "processed": 500
+  }
+}

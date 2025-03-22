@@ -1,0 +1,29 @@
+{
+  "openai": {
+    "api_key": "",
+    "model_name": "gpt-4o-2024-11-20",
+    "temperature": 0,
+    "rate_limit": {
+      "requests_per_minute": 500,
+      "tokens_per_minute": 30000
+    }
+  },
+  "anthropic": {
+    "api_key": "",
+    "model_name": "claude-3-7-sonnet-20250219",
+    "temperature": 0,
+    "rate_limit": {
+      "requests_per_minute": 2000,
+      "tokens_per_minute": 80000
+    }
+  },
+  "gemini": {
+    "api_key": "",
+    "model_name": "gemini-2.0-pro-exp-02-05",
+    "temperature": 0,
+    "rate_limit": {
+      "requests_per_minute": 5,
+      "tokens_per_minute": 1000000
+    }
+  }
+}

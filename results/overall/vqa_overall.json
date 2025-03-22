@@ -1,0 +1,26 @@
+{
+  "anthropic": {
+    "accuracy": 70.24,
+    "answer_type": {
+      "yes_no": 90.1,
+      "other": 62.44,
+      "number": 37.91
+    }
+  },
+  "gemini": {
+    "accuracy": 71.2,
+    "answer_type": {
+      "yes_no": 86.88,
+      "other": 66.35,
+      "number": 40.0
+    }
+  },
+  "openai": {
+    "accuracy": 67.0,
+    "answer_type": {
+      "yes_no": 78.96,
+      "other": 65.01,
+      "number": 35.74
+    }
+  }
+}
